@@ -1,0 +1,8 @@
+out
+.idea
+*.csv
+*.xlsx
+*.iml
+Chrome
+Driver
+/Chrome/
